@@ -1,0 +1,3 @@
+[submodule "lib/ascii"]
+	path = lib/ascii
+	url = https://github.com/catsby/ascii
